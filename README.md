@@ -1,0 +1,3 @@
+(The project is private)
+This is a system that detects genuine and counterfeit products thus helps a company for its growth. The system contains an Android app, Product Production Line with Quality Inspection, website, an organized database.
+The products are first labeled with unique symbols and passed through a QA test. End-user can scan the product label with the app to ensure if the product is original or not.
